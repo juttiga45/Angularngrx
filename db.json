@@ -1,0 +1,18 @@
+{
+  "customers": [
+    {
+      "name": "Sriram",
+      "phone": "9959999599",
+      "address": "5 th Main, Indira Nagar",
+      "membership": "Pro",
+      "id": 2
+    },
+    {
+      "name": "Raj",
+      "phone": "9922335599",
+      "address": "35, Hal 3 rd Stage",
+      "membership": "Basic",
+      "id": 3
+    }
+  ]
+}
